@@ -19,6 +19,7 @@
   # Define on which hard drive you want to install Grub.
   boot.loader.grub.device = "/dev/sda"; # or "nodev" for efi only
 
+  # Hostname of this and rest servers are usually inspired by NieR, Evangelion and the like, so expect more.
   networking.hostName = "Bunker"; # Define your hostname.
   # Pick only one of the below networking options.
   # networking.wireless.enable = true;  # Enables wireless support via wpa_supplicant.
